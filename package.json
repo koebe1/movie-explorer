@@ -1,0 +1,17 @@
+{
+    "name": "MovieExplorer",
+    "version": "0.0.1",
+    "description": "A simple web dashboard to explore movies from omdbapi.com",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "start": "node index.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "MIT",
+    "dependencies": {
+        "express": "^4.17.1",
+        "sqlite3": "^5.0.2"
+    }
+}
